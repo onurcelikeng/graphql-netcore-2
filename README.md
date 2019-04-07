@@ -1,0 +1,1 @@
+# graphql-netcore-2
