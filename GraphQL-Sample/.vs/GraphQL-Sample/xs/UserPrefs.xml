@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7D145B90-7BBB-4D51-B464-58DAB64E91BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphQL-Sample/Controllers/GraphQLController.cs">
+    <Files>
+      <File FileName="GraphQL-Sample/Controllers/GraphQLController.cs" Line="23" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraphQL-Sample" expanded="True">
+            <Node name="GraphQL-Sample" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="GraphQLController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Types" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="GraphQL-Sample.Core" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GraphQL-Sample.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GraphQL-Sample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

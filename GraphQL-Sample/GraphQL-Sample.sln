@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL-Sample", "GraphQL-Sample\GraphQL-Sample.csproj", "{7D145B90-7BBB-4D51-B464-58DAB64E91BE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GraphQL-Sample.Core", "GraphQL-Sample.Core\GraphQL-Sample.Core.shproj", "{FC00F51D-241A-4AD7-9D1D-F3E04C402895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D145B90-7BBB-4D51-B464-58DAB64E91BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D145B90-7BBB-4D51-B464-58DAB64E91BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D145B90-7BBB-4D51-B464-58DAB64E91BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D145B90-7BBB-4D51-B464-58DAB64E91BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
